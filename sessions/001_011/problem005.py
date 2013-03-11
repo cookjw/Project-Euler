@@ -1,0 +1,1 @@
+print 2*2*2*2*3*3*5*7*11*13*17*19 # Multiply together all primes below 20, each raised to the highest power of itself below 20
